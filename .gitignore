@@ -5,3 +5,6 @@ node_modules/
 loggedInState.json
 notLoggedInState.json
 allure-*
+/test-results/
+/playwright-report/
+/playwright/.cache/
